@@ -1,0 +1,776 @@
+
+============================================================
+PORTFOLIO RISK & PERFORMANCE REPORT (LLM-FRIENDLY VERSION)
+============================================================
+
+Data Source Directory: ../outputs/portfolio1/analysis
+Evaluation Date Range: 10/22/2019 → 10/17/2025
+Number of Holdings: 17
+============================================================
+
+SECTION 1: PERFORMANCE METRICS
+These metrics measure returns, volatility, and efficiency of each stock.
+============================================================
+Metric Definitions:
+ - Total Return: (Final portfolio value / Initial value) - 1
+ - Annualized Return: Daily compounded return adjusted for 252 trading days
+ - Volatility: Standard deviation of daily returns × sqrt(252)
+ - Sharpe Ratio: Annualized Return ÷ Volatility (risk-adjusted return)
+ - Max Drawdown: Largest peak-to-trough decline in cumulative returns
+ - Upside Capture: Average portfolio return on market up days ÷ market up return
+ - Downside Capture: Average portfolio return on market down days ÷ market down return
+============================================================
+
+----- AAPL PERFORMANCE SUMMARY -----
+Total Return: 335.64%
+Annualized Return: 27.92%
+Volatility: 0.3184
+Sharpe Ratio: 0.8768
+Max Drawdown: -33.36%
+Upside Capture: 126.06%
+Downside Capture: 117.43%
+============================================================
+
+----- MSFT PERFORMANCE SUMMARY -----
+Total Return: 291.34%
+Annualized Return: 25.65%
+Volatility: 0.2943
+Sharpe Ratio: 0.8716
+Max Drawdown: -37.15%
+Upside Capture: 120.00%
+Downside Capture: 112.79%
+============================================================
+
+----- GOOGL PERFORMANCE SUMMARY -----
+Total Return: 309.95%
+Annualized Return: 26.63%
+Volatility: 0.3207
+Sharpe Ratio: 0.8302
+Max Drawdown: -44.32%
+Upside Capture: 124.52%
+Downside Capture: 116.74%
+============================================================
+
+----- SPY PERFORMANCE SUMMARY -----
+Total Return: 142.16%
+Annualized Return: 15.95%
+Volatility: 0.2068
+Sharpe Ratio: 0.7714
+Max Drawdown: -33.72%
+Upside Capture: 100.00%
+Downside Capture: 100.00%
+============================================================
+
+----- QQQ PERFORMANCE SUMMARY -----
+Total Return: 223.92%
+Annualized Return: 21.73%
+Volatility: 0.2518
+Sharpe Ratio: 0.8632
+Max Drawdown: -35.12%
+Upside Capture: 122.12%
+Downside Capture: 119.78%
+============================================================
+
+----- VTI PERFORMANCE SUMMARY -----
+Total Return: 134.90%
+Annualized Return: 15.36%
+Volatility: 0.2118
+Sharpe Ratio: 0.7253
+Max Drawdown: -35.00%
+Upside Capture: 102.00%
+Downside Capture: 102.76%
+============================================================
+
+----- TSLA PERFORMANCE SUMMARY -----
+Total Return: 2499.47%
+Annualized Return: 72.49%
+Volatility: 0.6684
+Sharpe Ratio: 1.0845
+Max Drawdown: -73.63%
+Upside Capture: 218.76%
+Downside Capture: 177.80%
+============================================================
+
+----- NVDA PERFORMANCE SUMMARY -----
+Total Return: 3658.26%
+Annualized Return: 83.46%
+Volatility: 0.5300
+Sharpe Ratio: 1.5748
+Max Drawdown: -66.34%
+Upside Capture: 220.90%
+Downside Capture: 182.45%
+============================================================
+
+----- JPM PERFORMANCE SUMMARY -----
+Total Return: 184.18%
+Annualized Return: 19.10%
+Volatility: 0.3120
+Sharpe Ratio: 0.6120
+Max Drawdown: -43.63%
+Upside Capture: 101.14%
+Downside Capture: 95.99%
+============================================================
+
+----- BAC PERFORMANCE SUMMARY -----
+Total Return: 91.59%
+Annualized Return: 11.49%
+Volatility: 0.3439
+Sharpe Ratio: 0.3342
+Max Drawdown: -48.95%
+Upside Capture: 109.22%
+Downside Capture: 111.54%
+============================================================
+
+----- VEA PERFORMANCE SUMMARY -----
+Total Return: 72.73%
+Annualized Return: 9.58%
+Volatility: 0.1941
+Sharpe Ratio: 0.4933
+Max Drawdown: -35.27%
+Upside Capture: 78.92%
+Downside Capture: 81.31%
+============================================================
+
+----- VWO PERFORMANCE SUMMARY -----
+Total Return: 55.53%
+Annualized Return: 7.67%
+Volatility: 0.2066
+Sharpe Ratio: 0.3712
+Max Drawdown: -34.32%
+Upside Capture: 70.90%
+Downside Capture: 73.48%
+============================================================
+
+----- JNJ PERFORMANCE SUMMARY -----
+Total Return: 78.80%
+Annualized Return: 10.21%
+Volatility: 0.1958
+Sharpe Ratio: 0.5215
+Max Drawdown: -27.37%
+Upside Capture: 33.85%
+Downside Capture: 27.69%
+============================================================
+
+----- PFE PERFORMANCE SUMMARY -----
+Total Return: -6.61%
+Annualized Return: -1.14%
+Volatility: 0.2707
+Sharpe Ratio: -0.0421
+Max Drawdown: -58.96%
+Upside Capture: 40.29%
+Downside Capture: 44.41%
+============================================================
+
+----- KO PERFORMANCE SUMMARY -----
+Total Return: 51.78%
+Annualized Return: 7.23%
+Volatility: 0.2016
+Sharpe Ratio: 0.3587
+Max Drawdown: -36.99%
+Upside Capture: 45.95%
+Downside Capture: 44.60%
+============================================================
+
+----- PG PERFORMANCE SUMMARY -----
+Total Return: 46.62%
+Annualized Return: 6.61%
+Volatility: 0.2055
+Sharpe Ratio: 0.3217
+Max Drawdown: -23.77%
+Upside Capture: 37.24%
+Downside Capture: 35.15%
+============================================================
+
+----- PORTFOLIO PERFORMANCE SUMMARY -----
+Total Return: 94.75%
+Annualized Return: 27.12%
+Volatility: 0.1585
+Sharpe Ratio: 1.7108
+Max Drawdown: -19.79%
+Upside Capture: 102.08%
+Downside Capture: 98.94%
+============================================================
+
+SECTION 2: RISK METRICS
+These metrics quantify exposure, loss probability, and correlation with the market.
+============================================================
+Metric Definitions:
+ - Volatility: Annualized standard deviation of returns
+ - VaR (Value at Risk): Maximum expected daily loss with a given confidence level (e.g. 95%)
+ - CVaR (Conditional VaR): Average loss on the worst 5% of days
+ - Beta: Covariance(stock, S&P500) ÷ Variance(S&P500) — sensitivity to market moves
+ - Correlation with S&P 500: Statistical correlation between stock and market daily returns
+============================================================
+
+----- AAPL RISK SUMMARY -----
+Vol 3M: 25.77%
+VaR95 3M: -1.93%
+VaR99 3M: -3.31%
+CVaR95 3M: -2.79%
+Beta 3M: 1.31
+Corr 3M: 53.57%
+Vol 1Y: 32.38%
+VaR95 1Y: -3.21%
+VaR99 1Y: -4.91%
+CVaR95 1Y: -4.57%
+Beta 1Y: 1.25
+Corr 1Y: 75.20%
+Vol 3Y: 27.61%
+VaR95 3Y: -2.66%
+VaR99 3Y: -4.24%
+CVaR95 3Y: -3.79%
+Beta 3Y: 1.24
+Corr 3Y: 73.25%
+Vol 5Y: 28.42%
+VaR95 5Y: -2.91%
+VaR99 5Y: -4.65%
+CVaR95 5Y: -3.96%
+Beta 5Y: 1.25
+Corr 5Y: 75.59%
+Vol Max: 31.84%
+VaR95 Max: -3.07%
+VaR99 Max: -4.98%
+CVaR95 Max: -4.46%
+Beta Max: 1.21
+Corr Max: 78.55%
+============================================================
+
+----- MSFT RISK SUMMARY -----
+Vol 3M: 17.06%
+VaR95 3M: -1.62%
+VaR99 3M: -2.33%
+CVaR95 3M: -2.03%
+Beta 3M: 0.82
+Corr 3M: 50.44%
+Vol 1Y: 24.67%
+VaR95 1Y: -2.16%
+VaR99 1Y: -3.71%
+CVaR95 1Y: -3.40%
+Beta 1Y: 0.92
+Corr 1Y: 72.58%
+Vol 3Y: 25.03%
+VaR95 3Y: -2.34%
+VaR99 3Y: -3.62%
+CVaR95 3Y: -3.26%
+Beta 3Y: 1.10
+Corr 3Y: 71.84%
+Vol 5Y: 25.91%
+VaR95 5Y: -2.63%
+VaR99 5Y: -4.13%
+CVaR95 5Y: -3.60%
+Beta 5Y: 1.15
+Corr 5Y: 76.25%
+Vol Max: 29.43%
+VaR95 Max: -2.71%
+VaR99 Max: -4.53%
+CVaR95 Max: -4.12%
+Beta Max: 1.15
+Corr Max: 80.73%
+============================================================
+
+----- GOOGL RISK SUMMARY -----
+Vol 3M: 27.58%
+VaR95 3M: -1.76%
+VaR99 3M: -2.17%
+CVaR95 3M: -2.02%
+Beta 3M: 1.33
+Corr 3M: 51.04%
+Vol 1Y: 32.31%
+VaR95 1Y: -2.91%
+VaR99 1Y: -4.81%
+CVaR95 1Y: -4.46%
+Beta 1Y: 1.02
+Corr 1Y: 61.48%
+Vol 3Y: 31.36%
+VaR95 3Y: -2.72%
+VaR99 3Y: -4.80%
+CVaR95 3Y: -4.42%
+Beta 3Y: 1.19
+Corr 3Y: 62.16%
+Vol 5Y: 30.98%
+VaR95 5Y: -2.96%
+VaR99 5Y: -4.80%
+CVaR95 5Y: -4.33%
+Beta 5Y: 1.25
+Corr 5Y: 69.28%
+Vol Max: 32.07%
+VaR95 Max: -3.08%
+VaR99 Max: -5.15%
+CVaR95 Max: -4.60%
+Beta Max: 1.13
+Corr Max: 72.97%
+============================================================
+
+----- SPY RISK SUMMARY -----
+Vol 3M: 10.73%
+VaR95 3M: -0.67%
+VaR99 3M: -2.04%
+CVaR95 3M: -1.44%
+Beta 3M: 1.02
+Corr 3M: 100.00%
+Vol 1Y: 19.57%
+VaR95 1Y: -1.70%
+VaR99 1Y: -3.67%
+CVaR95 1Y: -2.87%
+Beta 1Y: 1.00
+Corr 1Y: 100.00%
+Vol 3Y: 16.36%
+VaR95 3Y: -1.48%
+VaR99 3Y: -2.47%
+CVaR95 3Y: -2.21%
+Beta 3Y: 1.00
+Corr 3Y: 100.00%
+Vol 5Y: 17.23%
+VaR95 5Y: -1.68%
+VaR99 5Y: -2.96%
+CVaR95 5Y: -2.51%
+Beta 5Y: 1.00
+Corr 5Y: 100.00%
+Vol Max: 20.68%
+VaR95 Max: -1.81%
+VaR99 Max: -3.69%
+CVaR95 Max: -3.13%
+Beta Max: 1.00
+Corr Max: 100.00%
+============================================================
+
+----- QQQ RISK SUMMARY -----
+Vol 3M: 13.76%
+VaR95 3M: -1.13%
+VaR99 3M: -2.54%
+CVaR95 3M: -1.99%
+Beta 3M: 1.23
+Corr 3M: 94.76%
+Vol 1Y: 23.61%
+VaR95 1Y: -2.42%
+VaR99 1Y: -4.06%
+CVaR95 1Y: -3.53%
+Beta 1Y: 1.17
+Corr 1Y: 97.00%
+Vol 3Y: 21.21%
+VaR95 3Y: -1.98%
+VaR99 3Y: -3.39%
+CVaR95 3Y: -2.87%
+Beta 3Y: 1.24
+Corr 3Y: 95.16%
+Vol 5Y: 22.77%
+VaR95 5Y: -2.38%
+VaR99 5Y: -3.89%
+CVaR95 5Y: -3.29%
+Beta 5Y: 1.24
+Corr 5Y: 94.05%
+Vol Max: 25.18%
+VaR95 Max: -2.53%
+VaR99 Max: -4.25%
+CVaR95 Max: -3.71%
+Beta Max: 1.14
+Corr Max: 93.63%
+============================================================
+
+----- VTI RISK SUMMARY -----
+Vol 3M: 11.04%
+VaR95 3M: -0.69%
+VaR99 3M: -2.05%
+CVaR95 3M: -1.46%
+Beta 3M: 1.04
+Corr 3M: 99.40%
+Vol 1Y: 19.54%
+VaR95 1Y: -1.76%
+VaR99 1Y: -3.59%
+CVaR95 1Y: -2.87%
+Beta 1Y: 1.00
+Corr 1Y: 99.78%
+Vol 3Y: 16.56%
+VaR95 3Y: -1.55%
+VaR99 3Y: -2.55%
+CVaR95 3Y: -2.25%
+Beta 3Y: 1.01
+Corr 3Y: 99.59%
+Vol 5Y: 17.60%
+VaR95 5Y: -1.71%
+VaR99 5Y: -3.09%
+CVaR95 5Y: -2.56%
+Beta 5Y: 1.02
+Corr 5Y: 99.47%
+Vol Max: 21.18%
+VaR95 Max: -1.86%
+VaR99 Max: -3.69%
+CVaR95 Max: -3.20%
+Beta Max: 1.02
+Corr Max: 99.61%
+============================================================
+
+----- TSLA RISK SUMMARY -----
+Vol 3M: 47.42%
+VaR95 3M: -4.44%
+VaR99 3M: -6.28%
+CVaR95 3M: -5.70%
+Beta 3M: 2.42
+Corr 3M: 53.79%
+Vol 1Y: 70.76%
+VaR95 1Y: -5.67%
+VaR99 1Y: -9.38%
+CVaR95 1Y: -8.39%
+Beta 1Y: 2.33
+Corr 1Y: 64.15%
+Vol 3Y: 62.26%
+VaR95 3Y: -5.66%
+VaR99 3Y: -9.74%
+CVaR95 3Y: -8.24%
+Beta 3Y: 2.16
+Corr 3Y: 56.62%
+Vol 5Y: 61.22%
+VaR95 5Y: -5.86%
+VaR99 5Y: -9.25%
+CVaR95 5Y: -8.17%
+Beta 5Y: 1.98
+Corr 5Y: 55.63%
+Vol Max: 66.84%
+VaR95 Max: -6.09%
+VaR99 Max: -11.36%
+CVaR95 Max: -8.96%
+Beta Max: 1.70
+Corr Max: 52.42%
+============================================================
+
+----- NVDA RISK SUMMARY -----
+Vol 3M: 30.33%
+VaR95 3M: -3.27%
+VaR99 3M: -4.59%
+CVaR95 3M: -4.03%
+Beta 3M: 1.77
+Corr 3M: 61.77%
+Vol 1Y: 49.38%
+VaR95 1Y: -4.61%
+VaR99 1Y: -8.14%
+CVaR95 1Y: -7.27%
+Beta 1Y: 1.84
+Corr 1Y: 72.81%
+Vol 3Y: 51.89%
+VaR95 3Y: -4.43%
+VaR99 3Y: -7.08%
+CVaR95 3Y: -6.50%
+Beta 3Y: 2.11
+Corr 3Y: 66.34%
+Vol 5Y: 52.18%
+VaR95 5Y: -4.93%
+VaR99 5Y: -7.60%
+CVaR95 5Y: -6.81%
+Beta 5Y: 2.10
+Corr 5Y: 69.26%
+Vol Max: 53.00%
+VaR95 Max: -4.91%
+VaR99 Max: -7.79%
+CVaR95 Max: -7.00%
+Beta Max: 1.80
+Corr Max: 70.14%
+============================================================
+
+----- JPM RISK SUMMARY -----
+Vol 3M: 17.41%
+VaR95 3M: -1.87%
+VaR99 3M: -2.63%
+CVaR95 3M: -2.42%
+Beta 3M: 1.00
+Corr 3M: 60.66%
+Vol 1Y: 26.71%
+VaR95 1Y: -2.05%
+VaR99 1Y: -4.39%
+CVaR95 1Y: -3.91%
+Beta 1Y: 0.99
+Corr 1Y: 72.28%
+Vol 3Y: 23.40%
+VaR95 3Y: -1.93%
+VaR99 3Y: -4.38%
+CVaR95 3Y: -3.42%
+Beta 3Y: 0.88
+Corr 3Y: 61.22%
+Vol 5Y: 25.26%
+VaR95 5Y: -2.33%
+VaR99 5Y: -4.18%
+CVaR95 5Y: -3.48%
+Beta 5Y: 0.90
+Corr 5Y: 61.29%
+Vol Max: 31.20%
+VaR95 Max: -2.82%
+VaR99 Max: -5.16%
+CVaR95 Max: -4.44%
+Beta Max: 1.08
+Corr Max: 71.27%
+============================================================
+
+----- BAC RISK SUMMARY -----
+Vol 3M: 21.65%
+VaR95 3M: -1.75%
+VaR99 3M: -3.45%
+CVaR95 3M: -2.74%
+Beta 3M: 1.06
+Corr 3M: 51.76%
+Vol 1Y: 28.06%
+VaR95 1Y: -2.11%
+VaR99 1Y: -5.04%
+CVaR95 1Y: -4.36%
+Beta 1Y: 1.00
+Corr 1Y: 69.25%
+Vol 3Y: 26.47%
+VaR95 3Y: -2.41%
+VaR99 3Y: -4.10%
+CVaR95 3Y: -3.75%
+Beta 3Y: 0.99
+Corr 3Y: 61.00%
+Vol 5Y: 28.33%
+VaR95 5Y: -2.75%
+VaR99 5Y: -4.02%
+CVaR95 5Y: -3.77%
+Beta 5Y: 0.99
+Corr 5Y: 59.91%
+Vol Max: 34.39%
+VaR95 Max: -3.09%
+VaR99 Max: -5.73%
+CVaR95 Max: -4.81%
+Beta Max: 1.18
+Corr Max: 70.86%
+============================================================
+
+----- VEA RISK SUMMARY -----
+Vol 3M: 11.70%
+VaR95 3M: -0.88%
+VaR99 3M: -1.64%
+CVaR95 3M: -1.38%
+Beta 3M: 0.79
+Corr 3M: 71.48%
+Vol 1Y: 16.19%
+VaR95 1Y: -1.25%
+VaR99 1Y: -2.24%
+CVaR95 1Y: -2.13%
+Beta 1Y: 0.64
+Corr 1Y: 77.45%
+Vol 3Y: 15.26%
+VaR95 3Y: -1.40%
+VaR99 3Y: -2.13%
+CVaR95 3Y: -1.94%
+Beta 3Y: 0.74
+Corr 3Y: 78.91%
+Vol 5Y: 16.20%
+VaR95 5Y: -1.57%
+VaR99 5Y: -2.59%
+CVaR95 5Y: -2.20%
+Beta 5Y: 0.77
+Corr 5Y: 81.72%
+Vol Max: 19.41%
+VaR95 Max: -1.67%
+VaR99 Max: -3.07%
+CVaR95 Max: -2.79%
+Beta Max: 0.81
+Corr Max: 86.66%
+============================================================
+
+----- VWO RISK SUMMARY -----
+Vol 3M: 13.68%
+VaR95 3M: -0.87%
+VaR99 3M: -2.07%
+CVaR95 3M: -1.62%
+Beta 3M: 0.89
+Corr 3M: 68.64%
+Vol 1Y: 17.16%
+VaR95 1Y: -1.57%
+VaR99 1Y: -3.04%
+CVaR95 1Y: -2.50%
+Beta 1Y: 0.61
+Corr 1Y: 68.89%
+Vol 3Y: 16.19%
+VaR95 3Y: -1.55%
+VaR99 3Y: -2.28%
+CVaR95 3Y: -2.16%
+Beta 3Y: 0.63
+Corr 3Y: 63.52%
+Vol 5Y: 17.52%
+VaR95 5Y: -1.76%
+VaR99 5Y: -2.74%
+CVaR95 5Y: -2.38%
+Beta 5Y: 0.67
+Corr 5Y: 65.83%
+Vol Max: 20.66%
+VaR95 Max: -1.84%
+VaR99 Max: -3.36%
+CVaR95 Max: -2.95%
+Beta Max: 0.75
+Corr Max: 74.67%
+============================================================
+
+----- JNJ RISK SUMMARY -----
+Vol 3M: 13.33%
+VaR95 3M: -1.09%
+VaR99 3M: -1.59%
+CVaR95 3M: -1.40%
+Beta 3M: 0.01
+Corr 3M: 0.74%
+Vol 1Y: 19.28%
+VaR95 1Y: -1.67%
+VaR99 1Y: -3.19%
+CVaR95 1Y: -2.64%
+Beta 1Y: 0.06
+Corr 1Y: 6.12%
+Vol 3Y: 17.07%
+VaR95 3Y: -1.55%
+VaR99 3Y: -2.76%
+CVaR95 3Y: -2.35%
+Beta 3Y: 0.14
+Corr 3Y: 13.69%
+Vol 5Y: 16.82%
+VaR95 5Y: -1.60%
+VaR99 5Y: -2.67%
+CVaR95 5Y: -2.32%
+Beta 5Y: 0.24
+Corr 5Y: 24.26%
+Vol Max: 19.58%
+VaR95 Max: -1.69%
+VaR99 Max: -3.33%
+CVaR95 Max: -2.75%
+Beta Max: 0.43
+Corr Max: 45.25%
+============================================================
+
+----- PFE RISK SUMMARY -----
+Vol 3M: 31.26%
+VaR95 3M: -2.80%
+VaR99 3M: -3.64%
+CVaR95 3M: -3.40%
+Beta 3M: 0.18
+Corr 3M: 6.22%
+Vol 1Y: 26.37%
+VaR95 1Y: -2.52%
+VaR99 1Y: -4.07%
+CVaR95 1Y: -3.67%
+Beta 1Y: 0.44
+Corr 1Y: 32.43%
+Vol 3Y: 24.48%
+VaR95 3Y: -2.29%
+VaR99 3Y: -4.04%
+CVaR95 3Y: -3.37%
+Beta 3Y: 0.43
+Corr 3Y: 28.72%
+Vol 5Y: 25.75%
+VaR95 5Y: -2.34%
+VaR99 5Y: -4.03%
+CVaR95 5Y: -3.39%
+Beta 5Y: 0.41
+Corr 5Y: 27.58%
+Vol Max: 27.07%
+VaR95 Max: -2.39%
+VaR99 Max: -4.61%
+CVaR95 Max: -3.69%
+Beta Max: 0.53
+Corr Max: 40.76%
+============================================================
+
+----- KO RISK SUMMARY -----
+Vol 3M: 13.16%
+VaR95 3M: -1.24%
+VaR99 3M: -1.62%
+CVaR95 3M: -1.45%
+Beta 3M: -0.42
+Corr 3M: -33.70%
+Vol 1Y: 17.07%
+VaR95 1Y: -1.53%
+VaR99 1Y: -2.46%
+CVaR95 1Y: -2.20%
+Beta 1Y: 0.06
+Corr 1Y: 7.27%
+Vol 3Y: 14.89%
+VaR95 3Y: -1.39%
+VaR99 3Y: -2.09%
+CVaR95 3Y: -1.93%
+Beta 3Y: 0.22
+Corr 3Y: 24.22%
+Vol 5Y: 16.20%
+VaR95 5Y: -1.55%
+VaR99 5Y: -2.64%
+CVaR95 5Y: -2.28%
+Beta 5Y: 0.35
+Corr 5Y: 37.13%
+Vol Max: 20.16%
+VaR95 Max: -1.71%
+VaR99 Max: -3.79%
+CVaR95 Max: -3.04%
+Beta Max: 0.55
+Corr Max: 56.43%
+============================================================
+
+----- PG RISK SUMMARY -----
+Vol 3M: 15.29%
+VaR95 3M: -1.59%
+VaR99 3M: -2.09%
+CVaR95 3M: -1.94%
+Beta 3M: -0.16
+Corr 3M: -10.86%
+Vol 1Y: 18.56%
+VaR95 1Y: -1.97%
+VaR99 1Y: -3.28%
+CVaR95 1Y: -2.87%
+Beta 1Y: 0.16
+Corr 1Y: 16.89%
+Vol 3Y: 16.33%
+VaR95 3Y: -1.55%
+VaR99 3Y: -2.74%
+CVaR95 3Y: -2.40%
+Beta 3Y: 0.24
+Corr 3Y: 24.24%
+Vol 5Y: 17.22%
+VaR95 5Y: -1.72%
+VaR99 5Y: -2.90%
+CVaR95 5Y: -2.60%
+Beta 5Y: 0.33
+Corr 5Y: 33.07%
+Vol Max: 20.55%
+VaR95 Max: -1.78%
+VaR99 Max: -3.95%
+CVaR95 Max: -3.11%
+Beta Max: 0.50
+Corr Max: 50.16%
+============================================================
+
+----- PORTFOLIO RISK SUMMARY -----
+Vol 3M: 11.10%
+VaR95 3M: -0.63%
+VaR99 3M: -2.01%
+CVaR95 3M: -1.39%
+Beta 3M: 1.03
+Corr 3M: 98.05%
+Vol 1Y: 20.02%
+VaR95 1Y: -1.64%
+VaR99 1Y: -3.60%
+CVaR95 1Y: -2.92%
+Beta 1Y: 1.02
+Corr 1Y: 99.07%
+Vol 3Y: nan%
+VaR95 3Y: nan%
+VaR99 3Y: nan%
+CVaR95 3Y: nan%
+Beta 3Y: nan
+Corr 3Y: nan%
+Vol 5Y: nan%
+VaR95 5Y: nan%
+VaR99 5Y: nan%
+CVaR95 5Y: nan%
+Beta 5Y: nan
+Corr 5Y: nan%
+Vol Max: 15.85%
+VaR95 Max: -1.44%
+VaR99 Max: -2.57%
+CVaR95 Max: -2.18%
+Beta Max: 1.00
+Corr Max: 98.18%
+============================================================
+
+SECTION 3: PORTFOLIO CONTEXT AND NOTES
+============================================================
+Performance metrics were computed using daily price data and standard finance formulas.
+
+Risk metrics were computed relative to the S&P 500 index over the same period.
+
+All percentages represent daily or annualized values unless stated otherwise.
+
+Report Generated On: 10/19/2025 16:05:04
+
+============================================================
