@@ -1,17 +1,17 @@
-symbol,shares,purchase_date,purchase_price,sector
-AAPL,100,2023-01-15,150.0,Technology
-MSFT,50,2023-02-20,250.0,Technology
-GOOGL,30,2023-03-10,2800.0,Technology
-SPY,200,2023-01-01,400.0,ETF
-QQQ,75,2023-02-01,320.0,ETF
-VTI,150,2023-01-10,220.0,ETF
-TSLA,25,2023-04-01,200.0,Automotive
-NVDA,40,2023-03-15,300.0,Technology
-JPM,80,2023-02-05,140.0,Financials
-BAC,120,2023-01-20,35.0,Financials
-VEA,100,2023-01-25,50.0,ETF
-VWO,80,2023-02-15,40.0,ETF
-JNJ,60,2023-03-01,160.0,Healthcare
-PFE,90,2023-01-30,45.0,Healthcare
-KO,70,2023-02-10,60.0,Consumer Staples
-PG,50,2023-03-05,150.0,Consumer Staples
+symbol,shares,purchase_date,purchase_price,sector,asset_type
+AAPL,100,2023-01-15,150.0,Technology,Stock
+MSFT,50,2023-02-20,250.0,Technology,Stock
+GOOGL,30,2023-03-10,2800.0,Technology,Stock
+SPY,200,2023-01-01,400.0,ETF,ETF
+QQQ,75,2023-02-01,320.0,ETF,ETF
+VTI,150,2023-01-10,220.0,ETF,ETF
+TSLA,25,2023-04-01,200.0,Automotive,Stock
+NVDA,40,2023-03-15,300.0,Technology,Stock
+JPM,80,2023-02-05,140.0,Financials,Stock
+BAC,120,2023-01-20,35.0,Financials,Stock
+VEA,100,2023-01-25,50.0,ETF,ETF
+VWO,80,2023-02-15,40.0,ETF,ETF
+JNJ,60,2023-03-01,160.0,Healthcare,Stock
+PFE,90,2023-01-30,45.0,Healthcare,Stock
+KO,70,2023-02-10,60.0,Consumer Staples,Stock
+PG,50,2023-03-05,150.0,Consumer Staples,Stock

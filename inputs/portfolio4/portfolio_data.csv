@@ -1,0 +1,5 @@
+symbol,shares,purchase_date,purchase_price,sector,asset_type
+QQQ,40,2023-01-01,320.0,US Tech,ETF
+VTI,25,2023-01-01,220.0,US Total Market,ETF
+VWO,20,2023-01-01,40.0,Emerging Markets,ETF
+SPY,15,2023-01-01,400.0,US Large Cap,ETF

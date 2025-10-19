@@ -1,0 +1,5 @@
+symbol,shares,purchase_date,purchase_price,sector,asset_type
+SPY,40,2023-01-01,400.0,US Large Cap,ETF
+AGG,40,2023-01-01,110.0,Bonds,ETF
+GLD,10,2023-01-01,180.0,Gold,ETF
+VNQ,10,2023-01-01,90.0,Real Estate,ETF

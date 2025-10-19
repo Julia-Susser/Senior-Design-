@@ -1,0 +1,18 @@
+symbol,shares,purchase_date,purchase_price,sector,asset_type
+SPY,100,2023-01-01,400.0,US Large Cap,ETF
+QQQ,50,2023-01-01,320.0,US Tech,ETF
+VTI,75,2023-01-01,220.0,US Total Market,ETF
+VEA,60,2023-01-01,50.0,Developed Markets,ETF
+VWO,40,2023-01-01,40.0,Emerging Markets,ETF
+AGG,30,2023-01-01,110.0,Bonds,ETF
+TLT,20,2023-01-01,100.0,Treasury Bonds,ETF
+GLD,25,2023-01-01,180.0,Gold,ETF
+VNQ,35,2023-01-01,90.0,Real Estate,ETF
+XLK,30,2023-01-01,150.0,Technology,ETF
+XLF,25,2023-01-01,35.0,Financials,ETF
+XLV,20,2023-01-01,130.0,Healthcare,ETF
+XLE,15,2023-01-01,80.0,Energy,ETF
+VYM,40,2023-01-01,110.0,High Dividend,ETF
+SCHD,35,2023-01-01,75.0,Dividend Growth,ETF
+VB,30,2023-01-01,200.0,Small Cap,ETF
+VTV,25,2023-01-01,140.0,Large Value,ETF
